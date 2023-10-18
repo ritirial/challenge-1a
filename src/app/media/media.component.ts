@@ -6,7 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./media.component.css']
 })
 export class MediaComponent {
-  media(lista: Number[]) {
-    return 0;
+  media(lista: number[]) {
+    var accumulator = 0;
+    lista.forEach(num => accumulator = accumulator + num);
+    accumulator = accumulator / lista.length;
+    return accumulator;
   }
 }

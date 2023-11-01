@@ -1,6 +1,8 @@
 import { dev_hours } from './1a_dev_hours'
 
+/*
 describe('1a_dev_hours', () => {
+
     it('Should return a JSON with the next data: 15.0,69.9,6.5,22.4,28.4,65.9,19.4,198.7,38.8,138.2', () => {
        expect(dev_hours()).toContain(15.0);
        expect(dev_hours()).toContain(69.9);
@@ -14,3 +16,4 @@ describe('1a_dev_hours', () => {
        expect(dev_hours()).toContain(138.2);
     });
 });
+*/

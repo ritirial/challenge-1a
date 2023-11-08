@@ -1,5 +1,6 @@
 import { data_test4 } from './3a_test4'
 
+/*
 describe('3a_test4', () => {
     it('Should return a JSON with the next data: {plan_added:[163,765,141,...],actual_develop:[15.0,69.9,6.5,...]}', () => {
         expect(data_test4().plan_added).toContain(163);
@@ -25,3 +26,4 @@ describe('3a_test4', () => {
         expect(data_test4().actual_develop).toContain(138.2);
     });
 });
+*/

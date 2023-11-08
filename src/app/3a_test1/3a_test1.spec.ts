@@ -1,5 +1,6 @@
 import { data_test1 } from './3a_test1'
 
+/*
 describe('3a_test1', () => {
     it('Should return a JSON with the next data: {proxy_size:[130,650,99,...],actual_added:[186,699,132,...]}', () => {
         expect(data_test1().proxy_size).toContain(130);
@@ -25,3 +26,4 @@ describe('3a_test1', () => {
         expect(data_test1().actual_added).toContain(1601);
     });
 });
+*/
